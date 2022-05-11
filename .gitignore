@@ -1,2 +1,3 @@
-node_modules
+/sd/node_modules
+/sd/package-lock.json
 .idea
